@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MR.Oct</title>
+    <meta name="keywords" content="MR.Oct">
+
+    <link rel="icon" type="image/x-icon" href="ASSS/OctopusNetwork_logo-150x150.ico">
+    <link rel="stylesheet" href="Style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body class="back">
+    
+    <header>
+        <nav>
+            <div class="navbar">
+                <ul>
+                    <li><a href="#">จองคิว</a></li>
+                    <li><a href="#">บทความ</a></li>
+                    <li><a href="#">เกี่ยวกับ</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div>
+        <div class="art1">
+            <h1>หมอหมึก</h1>
+            <p><b>หมอหมึกเป็นนักพยากรณ์ที่ชำนาญด้าการทำนายดวงด้วยลูกแก้วพยากรณ์ ไพ่ทาโร และการดูลายมือ</b></p>
+            <button><a href="#"><b>จองคิว</b></a></button>
+            <br>
+            <br>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="hiis">
+        <table>
+            <tr>
+                <th class="His">
+                    <p class="TH" style="color: aqua;">. . . หมอหมึกเป็นนักพยากรณ์ที่ชำนาญด้าการทำนายดวงด้วยลูกแก้วพยากรณ์ ไพ่ทาโร และการดูลายมือ 
+                        ด้วยความสามารถที่หลากหลายทำให้หมอหมึกสามารถเลืกวิธีการทำนายที่เหมาะกับแต่ละบุคคล เพื่อให้ได้ผลลัพธ์ที่แม่นยำที่สุด . . .</p>
+                        <br>
+                        <br>
+                    <hr>
+                    <br>
+                    <br>
+                    <p class="ENG" style="color: aqua;">. . . The octopus is a fortune teller who specializes in fortune telling with future crystal balls, tarot cards, and finger readings.
+                        With its wide range of abilities, Octopus can choose a prediction method that works for each person to get the most accurate results. . .
+                    </p>
+                </th>
+                <th>
+                    <div class="cards">
+                        <img src="ASSS/Other, Snezhana Mirkwood.jfif" alt="Mr.Oct" style="width: 100%;">
+                        <div class="container">
+                            <h4><b>หมอหมึก</b></h4>
+                            <p style="color: aqua;">นักพยากรณ์ & ปลาหมึก</p>
+                        </div>
+                    </div>
+                </th>
+            </tr>
+        </table>
+        <br>
+        <br>
+        <br>
+        <div class="review">
+            <h1>รีวิวจากลูกค้า</h1>
+            <div>
+                <table class="revieww">
+                    <tr>
+                        <div class="reviewcard1">
+                            <th><img src="ASSS/unknown (19).jpg" alt="Shark" width="100%"></th>
+                        </div>
+                        <th></th>
+                        <div class="reviewcard2">
+                            <th><img src="ASSS/unknown (20).png" alt="Whale" width="100%"></th>
+                        </div>
+                        <th></th>
+                        <div class="reviewcard3">
+                            <th><img src="ASSS/unknown.png" alt="auan" width="100%"></th>
+                        </div>
+                    </tr>
+                    <tr>
+                        <div class="reviewtext1">
+                            <th class="con1">
+                                <h2>เขี้ยวโต เป็นฉลาม</h2>
+                                <h3>"แม่นมากครับ หมอหมึกดูขลังสุดๆ</h3>
+                                <h3>พอได้ฟังคำทำนายนี้ขนลุกเลยครับ ตรงมาก"</h3>
+                            </th>
+                        </div>
+                        <th></th>
+                        <div>
+                            <th class="con2">
+                                <h2>ลายจุด เป็นวาฬเพชฌฆาต</h2>
+                                <h3>"ปกติเป็นวาฬไม่ค่อยเชื่อเรื่องพวกนี้</h3>
+                                <h3>แต่พอมาเจอหมอหมึก ต้องเปลี่ยนความคิดเลยครับ"</h3>
+                            </th>
+                        </div>
+                        <th></th>
+                        <div>
+                            <th class="con3">
+                                <h2>อ้วงเทา เป็นแมวน้ำอุ๋งๆ</h2>
+                                <h3>"ขลังสุดๆเลยอุ๋ง</h3>
+                                <h3>เหมือนที่หมอหมึกทำนายไว้เลยอุ๋ง"</h3>
+                            </th>
+                        </div>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="MAP">
+        <div>
+            <table>
+                <tr>
+                    <div>
+                        <th></th>
+                        <th>
+                            <br>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.8110130909795!2d100.77604361465394!3d13.729888890361604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311d664988a1bedf%3A0xcc678f180e221cd0!2z4Liq4LiW4Liy4Lia4Lix4LiZ4LmA4LiX4LiE4LmC4LiZ4LmC4Lil4Lii4Li14Lie4Lij4Liw4LiI4Lit4Lih4LmA4LiB4Lil4LmJ4Liy4LmA4LiI4LmJ4Liy4LiE4Li44LiT4LiX4Lir4Liy4Lij4Lil4Liy4LiU4LiB4Lij4Liw4Lia4Lix4LiH!5e0!3m2!1sth!2sth!4v1655826100275!5m2!1sth!2sth" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </th>
+                        <th></th>
+                        <th>
+                            <br>
+                            <h1>ทำนายดวงชะตากับหมอหมึก</h1>
+                            <p>สามารถจองคิวในเว็บหรือ</p>
+                            <p>อีเมล : octpus_fortune@teller.com</p>
+                            <p>โทรศัพท์ : 099 XXXX XXX</p>
+                            <p>และมาสำนักที่</p>
+                            <p>ชั้น 12 อาคาร JWC ถนนโปรแกรมมิ่ง แขวงเว็บ</p>
+                            <p>เขตอินเตอร์เน็ต กรุงเทพ 99999</p>
+                            <p>ตามวันเวลาที่นัดไว้</p>
+                            <br>
+                            <p>จำกัดที่ 10 คิวต่อหนึ่งวัน เปิดทำการ 10.00 – 18.30 น. พัก 12.00 – 13.00</p>
+                            <p>เปิดทุกวันอังคารถึงเสาร์ หยุดวันจันทร์และอาทิตย</p>
+                            <br>
+                            <br>
+                        </th>
+                    </div>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <footer class="foot">
+        <div class="ss">
+            <div class="credit">
+                <p>เว็บหมอหมึก</p>
+                <p>ทำโดย: กิตตินันท์ ธาตุไพบูลย์</p>
+            </div>
+            <h2>&nbsp;&nbsp;&nbsp; WZ.Oct &#128302;</h2>
+            <div class="icons">
+                &nbsp;
+                <a href="https://www.instagram.com/__auanruay.ktn__/" target="_blank" class="icon icon--instagram ">
+                    <i class="ri-instagram-line">
+                        <i class="fa fa-instagram"></i>
+                    </i>
+                </a>
+                <a href="https://twitter.com/AoiaoiIchiba" target="_blank" class="icon icon--twitter">
+                    <i class="ri-twitter-line">
+                        <i class="fa fa-twitter"></i>
+                    </i>
+                </a>
+                <a href="https://www.facebook.com/gy.bv.9/" target="_blank" class="icon icon--facebook">
+                    <i class="ri-facebook-line">
+                        <i class="fa fa-facebook"></i>
+                    </i>
+                </a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
