@@ -1,0 +1,338 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Stoke:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Noto+Sans+Thai:wght@500&family=Stoke:wght@300;400&display=swap');
+
+.back{
+    background-color: rgba(55, 45, 107, 0.814);
+}
+
+.navbar{
+    background-color: rgba(0,0,0,0.2);
+}
+
+nav a{
+    color: whitesmoke;
+
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    float: right;
+    display: inline;
+
+}
+
+li a{
+    text-align: ;
+    padding: 20px 30px;
+    text-decoration: none;
+
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+
+li a:hover{
+    color: rgb(0, 0, 0);
+    transition: 0.3s;
+}
+
+.art1{
+    text-align: center;
+    color: whitesmoke;
+
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-size: large;
+}
+
+.art1 h1{
+    color: white;
+    text-shadow: 1px 1px 20px black;
+}
+
+.art1 p{
+    color: white;
+    text-shadow: 1px 1px 20px black;
+}
+
+button a{
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+
+button{
+    background-color: #c0b6e3;
+    border: none;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px ;
+
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+button:hover{
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: rgba(0,0,0,0.1);
+}
+
+.art1 a{
+    text-decoration: none;
+    color: black;
+}
+
+.cards{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 80%;
+    border-radius: 5px;
+    margin:;
+
+    text-align: right;
+    float: right;
+}
+
+.cards:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+}
+
+.container{
+    border-radius: 10px;
+    padding: 2px 16px;
+    color: aqua;
+    background-color: rgb(46, 46, 46);
+
+    text-align: center;
+}
+
+.container:hover{
+    text-shadow: 1px 1px 18px aqua , 1px 1px 8px rgb(69, 255, 255);
+    transition: 0.3s;
+}
+
+.cards img{
+    border-radius: 20px;
+}
+
+.hiis table, td, th{
+    border: 0px solid;
+}
+
+.hiis table{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.His{
+    
+    font-size: px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    border-radius: 20px 20px;
+
+    color: aqua;
+    background-color:  rgb(46, 46, 46);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.His:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+    text-shadow: 1px 1px 20px rgb(0, 216, 216) , 1px 1px 10px rgb(92, 255, 255);
+}
+
+th{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+
+th .cards{
+    float: right;
+    text-align: right;
+}
+
+.review h1{
+    font-family: 'Noto Sans Thai', sans-serif;
+    color: white;
+
+    text-align: center;
+}
+
+.review{
+    padding: auto;
+    color: white;
+
+    text-align: center;
+}
+
+.review h1{
+    text-shadow: 1px 1px 20px black;
+}
+
+.reviewcard2{
+    padding: 20px;
+}
+
+.con1{
+    padding: auto;
+    background-color: rgb(46, 46, 46);
+    border-radius: 10px;
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    transition: 0.3s;
+}
+
+.con1:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+    text-shadow: 1px 1px 20px rgb(226, 226, 226);
+}
+
+.con2{
+    padding: auto;
+    background-color: rgb(46, 46, 46);
+    border-radius: 10px;
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    transition: 0.3s;
+}
+
+.con2:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+    text-shadow: 1px 1px 20px rgb(226, 226, 226);
+}
+
+.con3{
+    padding: auto;
+    background-color: rgb(46, 46, 46);
+    border-radius: 10px;
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    transition: 0.3s;
+}
+
+.con3:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+    text-shadow: 1px 1px 20px rgb(226, 226, 226);
+}
+
+.MAP{
+
+    margin: 140px 140px 140px 140px;
+
+    float: center;
+    text-align: left;
+
+    background-color: rgb(46, 46, 46);
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px 0 rgba(0,0,0,0.5);
+    transition: 0.3s;
+}
+
+.MAP:hover{
+    text-shadow: 1px 1px 20px rgb(226, 226, 226);
+}
+
+.MAP h1 , p{
+    color: white;
+}
+
+.MAP p{
+    font-size: small;
+}
+
+footer{
+    font-family: 'Noto Sans Thai', sans-serif;
+    background-color: rgb(46, 46, 46);
+}
+
+.foot{
+    padding: 10px 100px 50px 0px;
+    border-radius: 15px;
+    background-color: rgb(46, 46, 46);
+    color: white;
+    text-align: left;
+    text-shadow: 1px 1px 20px black;
+}
+
+.icons{
+    display: flex;
+    column-gap: 25px;
+}
+
+.icon{
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 26px;
+    color: #fff;
+    border-radius: 50%;
+    outline: 2px solid #fff;
+    transition-property: outline-offset, outline-color, background-color;
+    transition-duration:  .25s;
+}
+
+.icon:hover{
+    outline-offset: 4px;
+}
+
+.icon:hover i{
+    animation: shake .25s;
+}
+
+.icon--instagram:hover{
+    background-image: 
+    radial-gradient(circle at 30% 107%,
+    #fdf497 0%, #fdf497 5%,
+    #fd5949 45%, #d6249f 60%,
+    #285AEB 90%);
+    outline-color: #a02d76;
+}
+
+.icon--twitter:hover{
+    background-color: #1da1f2;
+    outline-color: #1da1f2;
+}
+
+.icon--facebook:hover{
+    background-color: #576b9e;
+    outline-color: #576b9e;
+}
+
+@keyframes shake{
+    10%{transition: rotate(15deg);}
+    20%{transition: rotate(-15deg);}
+    30%{transition: rotate(15deg);}
+    40%{transition: rotate(-15deg);}
+}
+
+.fa-twitter{
+    height: 5px;
+    width: 25px;
+}
+
+.fa-instagram{
+    height: 5px;
+    width: 23px;
+}
+
+.fa-facebook{
+    height: 5px;
+    width: 18px;
+}
+
+.credit{
+    text-align: left;
+    float: right;
+}
